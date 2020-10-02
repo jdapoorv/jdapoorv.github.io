@@ -1,2 +1,4 @@
 # jdapoorv.github.io
-Personal website
+This is my personal portfolio.
+
+It is currently under development.
